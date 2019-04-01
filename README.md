@@ -1,18 +1,18 @@
 # Lab3
 This is lab3.
 
-##主页面：
+## 主页面：
 ![](/Screenshot/Main.jpg)
 
-##AnimalList:
+## AnimalList:
 ![](/Screenshot/AnimalList.jpg)
 
-##AlertDialog:
+## AlertDialog:
 ![](/Screenshot/AlertDialog.jpg)
 
-##Menu:
+## Menu:
 ![](/Screenshot/Menu.jpg)
 ![](/Screenshot/Menu2.jpg)
 
-##ActionMode:
+## ActionMode:
 ![](/Screenshot/ActionMode.jpg)
